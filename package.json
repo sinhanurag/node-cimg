@@ -1,0 +1,19 @@
+{
+  "name": "node-cimg",
+  "version": "1.0.0",
+  "description": "A node.js addon utilizing the CImg library for image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhanurag/node-cimg.git"
+  },
+  "author": "Anurag Sinha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinhanurag/node-cimg/issues"
+  },
+  "homepage": "https://github.com/sinhanurag/node-cimg#readme"
+}
